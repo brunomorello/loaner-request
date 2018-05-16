@@ -4,25 +4,25 @@
         <active>true</active>
         <application display_value="Loaner Request">bb1bc72ac98213007f44b6cd3a198c72</application>
         <filter/>
-        <name>All</name>
-        <order>100</order>
-        <path/>
+        <name>Create New</name>
+        <order>200</order>
+        <path>form/x_snc_loaner_reque_loaner_request/-1</path>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>x_snc_loaner_reque.loaner_request_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-16 17:42:50</sys_created_on>
+        <sys_created_on>2018-05-16 18:31:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7f1bc72ac98213007f44b6cd3a198c74</sys_id>
+        <sys_id>a5161beac98213007f44b6cd3a198c6a</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Create New</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">190887e6c98213007f44b6cd3a198ce3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">190887e6c98213007f44b6cd3a198ce3</sys_scope>
-        <sys_update_name>sys_ui_module_7f1bc72ac98213007f44b6cd3a198c74</sys_update_name>
+        <sys_update_name>sys_ui_module_a5161beac98213007f44b6cd3a198c6a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-16 18:32:52</sys_updated_on>
+        <sys_updated_on>2018-05-16 18:33:08</sys_updated_on>
         <table>x_snc_loaner_reque_loaner_request</table>
         <uncancelable>false</uncancelable>
         <view_name/>
