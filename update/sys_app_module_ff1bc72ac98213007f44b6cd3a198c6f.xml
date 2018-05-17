@@ -19,14 +19,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_snc_loaner_reque.loaner_request_user</roles>
+        <roles>x_snc_loaner_reque.admin,x_snc_loaner_reque.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-16 17:42:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ff1bc72ac98213007f44b6cd3a198c6f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">190887e6c98213007f44b6cd3a198ce3</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Loaner Request">190887e6c98213007f44b6cd3a198ce3</sys_scope>
         <sys_update_name>sys_app_module_ff1bc72ac98213007f44b6cd3a198c6f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-16 17:50:07</sys_updated_on>
+        <sys_updated_on>2018-05-17 18:25:15</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>
